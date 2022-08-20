@@ -1,7 +1,8 @@
 # Oi, eu sou Nathália Alves, estudante de Análise e Desenvolvimento de Sistemas.<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h1> 
 
 **Aqui estão algumas estatísticas dos repositórios e atividades que venho desenvolvendo no GitHub:**
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
 Estou no terceiro **(3/5)** semestre da faculdade, cursando as seguintes disciplinas:
 * Programação cliente servidor;
 * Programação para dispositivos móveis em android;
