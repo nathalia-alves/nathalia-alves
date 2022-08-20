@@ -19,3 +19,5 @@ Cursos em andamento:
 * HTTP;
 * React;
 * Next.js;
+
+  ![Snake animation](https://github.com/nathalia-alves/nathalia-alves.git)
