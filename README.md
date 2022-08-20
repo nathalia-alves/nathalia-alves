@@ -10,7 +10,7 @@ Estou no terceiro **(3/5)** semestre da faculdade, cursando as seguintes discipl
 * Padrões de projeto de software com java.
 
 
-Além disso, escolhi a *Alura* para aprimorar meus conhecimentos e habilidades na programação, o que aprendi: 
+Além disso, escolhi a **Alura** para aprimorar meus conhecimentos e habilidades na programação, o que aprendi: 
 * Lógica de programação;
 * HTML5 e CSS3;
 * Javascript;
