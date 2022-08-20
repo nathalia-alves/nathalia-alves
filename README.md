@@ -1,4 +1,4 @@
-# Oi, eu sou Nathália Alves, estudante de Análise e Desenvolvimento de Sistemas.<h1> 
+# Oi, eu sou Nathália Alves, estudante de Análise e Desenvolvimento de Sistemas.<h1> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 **Aqui estão algumas estatísticas dos repositórios e atividades que venho desenvolvendo no GitHub:**
 
