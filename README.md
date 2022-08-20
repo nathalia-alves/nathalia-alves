@@ -1,16 +1,21 @@
-### Hi there 👋
+# Oi, eu sou Nathália Alves, estudante de Análise e Desenvolvimento de Sistemas. <h1>
 
-<!--
-**nathalia-alves/nathalia-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aqui estão algumas estatísticas dos repositórios e atividades que venho desenvolvendo no GitHub:**
 
-Here are some ideas to get you started:
+Estou no terceiro **(3/5)** semestre da faculdade, cursando as seguintes disciplinas:
+*Programação cliente servidor;
+*Programação para dispositivos móveis em android;
+*Estrutura de dados em c;
+*Modelagem de sistemas com uml;
+*Padrões de projeto de software com java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Além disso, escolhi a *Alura* para aprimorar meus conhecimentos e habilidades na programação, o que aprendi: 
+* Lógica de programação;
+* HTML5 e CSS3;
+* Javascript;
+
+Cursos em andamento:
+* HTTP;
+* React;
+* Next.js;
