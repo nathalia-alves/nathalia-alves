@@ -20,4 +20,4 @@ Cursos em andamento:
 * React;
 * Next.js;
 
-  ![Snake animation](https://github.com/nathalia-alves/nathalia-alves/blob/794ad78a46edc152ab6cac95953ba42f3e770d33/.github/workflows/cobrinha.yml)
+ ![Snake animation](https://github.com/nathalia-alves/nathalia-alves/blob/794ad78a46edc152ab6cac95953ba42f3e770d33/.github/workflows/cobrinha.yml)
