@@ -1,6 +1,5 @@
 # Oi, eu sou Nathália Alves, estudante de Análise e Desenvolvimento de Sistemas.<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h1> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 Estou no terceiro **(3/5)** semestre da faculdade, cursando as seguintes disciplinas:
 * Programação cliente servidor;
