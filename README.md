@@ -30,7 +30,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br/>
 
-[![nathália alves](https://github-readme-stats.vercel.app/api?username=nathalia-alves&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![nathália alves](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-alves&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
