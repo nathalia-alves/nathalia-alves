@@ -28,15 +28,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
 <br/>
 
-<a href="https://github.com/nathalia-alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-alves&theme=dracula&show_icons=true" />
-</a>
-
+[![nathália alves](https://github-readme-stats.vercel.app/api?username=nathalia-alves&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nathália alves](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-alves&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Nathália Alves](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nath%C3%A1lia-alves-292842241/)](https://www.linkedin.com/in/nath%C3%A1lia-alves-292842241/)
