@@ -5,7 +5,7 @@
 <h3> :rainbow: Sobre mim </h3>
 
 - :mag: Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>, 3/5.
 - 🌱 &nbsp; Aprendendo mais sobre **Next.js e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -25,7 +25,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br/>
 
 [![nathália alves](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-alves&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
