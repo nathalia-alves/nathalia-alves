@@ -5,8 +5,8 @@
 <h3> :rainbow: Sobre mim </h3>
 
 - :mag:  Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp;Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>, 3/5.
-- 🌱 &nbsp;Aprendendo mais sobre **Next.js e React**.
+- 🎓 &nbsp;Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>, 4/5.
+- 🌱 &nbsp;Aprendendo mais sobre **Java, Angular e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
