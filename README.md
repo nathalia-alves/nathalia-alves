@@ -5,8 +5,8 @@
 <h3> :rainbow: Sobre mim </h3>
 
 - :mag:  Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp;Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>, 5/5.
-- 💼 &nbsp; Trabalhando como **ESTAGIÁRIA DE DESENVOLVIMENTO DE SOFTWARE** na <a href="https://www.sankhya.com.br">Sankhya Gestão de Negócios</a>.
+- 🎓 &nbsp;Formada em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**.
+- 💼 &nbsp; Trabalhando como **DESENVOLVEDORA JÚNIOR FULL STACK** na <a href="https://www.sankhya.com.br">Sankhya Gestão de Negócios</a>.
 - 🌱 &nbsp;Aprendendo mais sobre **REACT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
